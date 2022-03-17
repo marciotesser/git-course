@@ -139,9 +139,7 @@ document.getElementById("teste");
 Para criar listas não-ordenadas, utiliza-se o símbolo - no começo da linha.
 - linha 1
 - linha 2
+- linha 3
 - linha 4
-- linha 5
-teste conflito 1
-
 
 [Voltar ao índice](#índice)
