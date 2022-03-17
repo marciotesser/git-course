@@ -1,16 +1,16 @@
 # Markdown Tutorial 
 
-## Indice 
+## Índice 
 
-1. Headers
+1. [Headers](#headers)
 
-2. Itálicos, Negritos e Negritos Itálicos
+2. [Itálicos, Negritos e Negritos Itálicos](#itálicos-negritos-e-negritos-itálicos)
 
-3. Parágrafos com destaque
+3. [Parágrafos com destaque](#parágrafo-com-destaque)
 
-4. Criação de Hyperlinks
+4. [Criação de Hyperlinks](#criação-de-hyperlinks)
 
-5. Criando snnipets de código
+5. [Criando snnipets de código](#criando-snippets-de-código)
 
 ## Headers
 
@@ -62,6 +62,8 @@ Uma palavra cercada por 2 asteriscos em cada lado terá seu formato modificado p
 
 Uma palavra cercada por 3 asteriscos em cada lado terá seu formato modificado para ***negrito/itálico***.
 
+[Voltar ao índice](#índice)
+
 ## Parágrafo com destaque
 
 
@@ -74,16 +76,17 @@ Para escrever um parágrafo com destaque, utilizamos o símbolo >.
 > Esse aqui também.
 > e assim por diante.
 
-
-
 Os paragráfos acima estão destacados do restante do texto escrito.
+
+
+[Voltar ao índice](#índice)
 
 ## Criação de hyperlinks
 
 
 
 A criação de hyperlinks é feita através dos símbolos [](). Onde o conteúdo dos colchetes é o texto que será exibido e o conteúdo do parênteses é o link a ser redirecionado.
-Ex: [Google](www.google.com)
+Ex: [Google](https://www.google.com)
 
 
 
@@ -127,3 +130,5 @@ document.getElementById("teste");
 "age": 25
 }
 ```
+
+[Voltar ao índice](#índice)
