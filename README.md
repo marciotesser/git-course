@@ -14,6 +14,8 @@
 
 5. [Listas não ordenadas](#listas-não-ordenadas)
 
+5. [Listas ordenadas](#listas-ordenadas)
+
 ## Headers
 
 Sempre que escrevermos headers, devemos deixar linhas em branco entre eles. Os headers são representados pelo símbolo #.
@@ -141,5 +143,13 @@ Para criar listas não-ordenadas, utiliza-se o símbolo - no começo da linha.
 - linha 2
 - linha 3
 - linha 4
+
+[Voltar ao índice](#índice)
+
+## Listas ordenadas
+Para criação de listas ordenadas, utiliza-se o número seguido de um ponto no começo da linha.
+1. linha 1
+2. linha 2
+3. linha 3
 
 [Voltar ao índice](#índice)
